@@ -7,7 +7,7 @@ By recognizing or regulating human emotions, the affective brain-computer interf
 ![image](https://github.com/user-attachments/assets/9ca816f6-3e56-41c2-99a6-d485cf1c65eb)
 
 # data
-The data is waiting to be open sourced. If you need it, please contact tjzhangshuai@tju.edu.cn. We will provide sample data of 3 subjects.
+We have currently released preprocessed data from 30 subjects. If needed, please fill out the License and send it to tjzhangshuai@tju.edu.cn.
 
 # contact
 If you have any bugs or questions please contact tjzhangshuai@tju.edu.cn
